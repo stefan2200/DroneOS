@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="29ea7615-81bd-4a54-8a93-b6d0d72a729a" name="PiBuilder" url="http://192.168.0.38">
+        <fileTransfer host="192.168.0.38" port="22" rootFolder="/home/pi/droneosv2" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
